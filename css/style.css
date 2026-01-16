@@ -44,6 +44,10 @@ body {
     gap: 10px;
 }
 
+.logo-img {
+    width: 28px;
+}
+
 .tagline {
     font-size: 0.8rem;
     opacity: 0.9;
